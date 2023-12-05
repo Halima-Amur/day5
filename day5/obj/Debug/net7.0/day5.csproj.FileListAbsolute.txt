@@ -1,0 +1,15 @@
+/Users/abc/Desktop/ProjectsTrining/day5 solution/day5/bin/Debug/net7.0/day5
+/Users/abc/Desktop/ProjectsTrining/day5 solution/day5/bin/Debug/net7.0/day5.deps.json
+/Users/abc/Desktop/ProjectsTrining/day5 solution/day5/bin/Debug/net7.0/day5.runtimeconfig.json
+/Users/abc/Desktop/ProjectsTrining/day5 solution/day5/bin/Debug/net7.0/day5.dll
+/Users/abc/Desktop/ProjectsTrining/day5 solution/day5/bin/Debug/net7.0/day5.pdb
+/Users/abc/Desktop/ProjectsTrining/day5 solution/day5/obj/Debug/net7.0/day5.csproj.AssemblyReference.cache
+/Users/abc/Desktop/ProjectsTrining/day5 solution/day5/obj/Debug/net7.0/day5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abc/Desktop/ProjectsTrining/day5 solution/day5/obj/Debug/net7.0/day5.AssemblyInfoInputs.cache
+/Users/abc/Desktop/ProjectsTrining/day5 solution/day5/obj/Debug/net7.0/day5.AssemblyInfo.cs
+/Users/abc/Desktop/ProjectsTrining/day5 solution/day5/obj/Debug/net7.0/day5.csproj.CoreCompileInputs.cache
+/Users/abc/Desktop/ProjectsTrining/day5 solution/day5/obj/Debug/net7.0/day5.dll
+/Users/abc/Desktop/ProjectsTrining/day5 solution/day5/obj/Debug/net7.0/refint/day5.dll
+/Users/abc/Desktop/ProjectsTrining/day5 solution/day5/obj/Debug/net7.0/day5.pdb
+/Users/abc/Desktop/ProjectsTrining/day5 solution/day5/obj/Debug/net7.0/day5.genruntimeconfig.cache
+/Users/abc/Desktop/ProjectsTrining/day5 solution/day5/obj/Debug/net7.0/ref/day5.dll
